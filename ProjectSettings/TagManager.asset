@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - FxTemporaire
+  - Boss
+  - InstantDeath
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Foreground
+  - Player
+  - Ladder
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 707790649
+    locked: 0
+  - name: Foreground
+    uniqueID: 4255854589
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1945635069
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3687956915
+    locked: 0
+  - name: Player
+    uniqueID: 4259877565
+    locked: 0
+  - name: Effects
+    uniqueID: 2355663231
+    locked: 0

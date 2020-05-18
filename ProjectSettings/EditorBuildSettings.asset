@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 1c0b6eeeb03fe1a49b58b5c641927c55
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/Prologue.unity
+    guid: c608e0610fd6e544fb5e85123a42d32d
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/1-1.unity
+    guid: 5806db43033c8a44a9f238fdff99c94b
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/1-2.unity
+    guid: d9e0a4b72909c374f902507f24ed97af
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/1-3.unity
+    guid: 84f3b706d53c0ef4fb559f99b06e4531
+  - enabled: 1
+    path: Assets/Scenes/Chapter 1/End of Chapter 1.unity
+    guid: b3743ecba727cf2438cd8bad37f2eac9
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/Interval 1.unity
+    guid: e728b20e3f5d7d440bde5c9a3afc60e4
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/2-1.unity
+    guid: 6bd1cbe4cbcc2514e8e87a5250fe90af
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/2-2.unity
+    guid: fde1b32384b828d42aeb385ce9cbf060
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/2-3.unity
+    guid: bc101ce045e079b45b5f293e82680ce3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/End of Chapter 2 - Annoyed End.unity
+    guid: 2bd414ebe90b54c4ba9ed38f20ec0b06
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/End of Chapter 2 - Mean End.unity
+    guid: 56b427171b6096b4aa9e3fda91452bf0
+  - enabled: 1
+    path: Assets/Scenes/Chapter 2/End of Chapter 2 - Nice End.unity
+    guid: 2caeeb46fd7cdbc41943c5086700e0ed
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/Interval 2.unity
+    guid: 41392722ad1e9b545aa1bfad29d67953
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/3-1.unity
+    guid: 679eb489fe886cc4aaf6f7483d799ec3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/3-2.unity
+    guid: 8ec858ed499cbf64d99c0d057f2a6a4b
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/3-3.unity
+    guid: 85955f70b3a5fa94f969310c1345c8c2
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/End of Chapter 3 - Annoyed End.unity
+    guid: 5190aea71715dd54eb72110710adcdba
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/End of Chapter 3 - Mean End.unity
+    guid: 4b6440ac03574254fa899b7914cf958e
+  - enabled: 1
+    path: Assets/Scenes/Chapter 3/End of Chapter 3 - Nice End.unity
+    guid: 69ca2cbf1e266e346bd053b8c87493da
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Interval 3 - Nice.unity
+    guid: c4be20710f2cbbb418060dbd47695667
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Interval 3 - Annoyed.unity
+    guid: c2f387e149d143c41a11ecda7a7c4837
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Interval 3 - Mean.unity
+    guid: 6e58c81ffc9e02e4183e96219da802c7
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Annoyed Path/4-1 Annoyed.unity
+    guid: 5d779060de92f57468aa05f3962f86fe
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Annoyed Path/4-2 Annoyed.unity
+    guid: eb83d5e07e2d953468f8bdbd248b01f9
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Annoyed Path/4-3 Annoyed.unity
+    guid: 5078eae3b0605d247a112c8eb40dd91a
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Mean Path/4-1 Mean.unity
+    guid: 4239da80090784e4f98f390fe3c5824d
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Mean Path/4-2 Mean.unity
+    guid: db153812a72695d499d81ef12213d4c6
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Mean Path/4-3 Mean.unity
+    guid: 3dbd423243ecc4945835fe22245c7ab0
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Nice Path/4-1 Nice.unity
+    guid: af7e14d97542a3e4c85736f1f39a0c0a
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Nice Path/4-2 Nice.unity
+    guid: f149187c4e4ae3e45b2bea7818e877b3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Nice Path/4-3 Nice.unity
+    guid: 37e306ee83166c34cbb150840ccf4c0b
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/End of Chapter 4 - Annoyed End.unity
+    guid: 2dd7e9d63a90a0746b174c5a292afe33
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/End of Chapter 4 - Mean End.unity
+    guid: b97145808ed5fa042871ad3c5486dca9
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/End of Chapter 4 - Nice End.unity
+    guid: a98c9614cfd7e8e4b83027dc05d5f8c4
+  - enabled: 1
+    path: Assets/Scenes/Chapter 5/Interval 4.unity
+    guid: e6ae73f1460adde4ab15f8e2d4ac06c3
+  - enabled: 1
+    path: Assets/Scenes/Chapter 4/Bad End - Village Destroyed.unity
+    guid: fa94e21916f32cd438f8bd9103d6e8cd
+  m_configObjects: {}
